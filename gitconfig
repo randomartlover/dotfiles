@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alex.nnenna.okoro@gmail.com
+	name = alexandra okoro
